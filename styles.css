@@ -126,6 +126,14 @@ p {
   margin-bottom: 1rem;
 }
 
+.iconstar {
+  color: #fce38a;
+}
+
+.iconstar:hover {
+  color: #f9ed69;
+}
+
 
 /* About Me Section */
 
